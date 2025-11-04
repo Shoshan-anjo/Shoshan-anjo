@@ -2,10 +2,11 @@
 👋 Hello there! I'm **Shoshan-anjo**, a passionate and detail-oriented developer with a strong foundation in web technologies and software development. My journey in programming began with a curiosity about how things work behind the scenes, and it has since evolved into a deep passion for creating efficient, scalable solutions.
 
 ## 🔧 What I Do
-- 💻 **Front-End Development**: Building responsive, accessible interfaces with HTML, CSS, and JavaScript
-- ⚙️ **Back-End Exploration**: Expanding my skills in Python and C# for robust server-side solutions
-- 🏗️ **Full-Stack Understanding**: Working with frameworks like Laravel to bridge front-end and back-end systems
-- 🧪 **Continuous Learning**: Always experimenting with new technologies and best practices
+- 💻 **Front-End Development**: Building responsive, accessible interfaces with HTML, CSS, and JavaScript  
+- ⚙️ **Back-End Exploration**: Developing robust server-side solutions using Python, C#, and Rust  
+- 🏗️ **Full-Stack Understanding**: Working with frameworks like Laravel to bridge front-end and back-end systems  
+- 🧩 **Databases & Tools**: Experienced with SQL Server and containerized environments using Docker  
+- 🧪 **Continuous Learning**: Always experimenting with new technologies and best practices  
 
 ## 🚀 My Development Philosophy
 ```
@@ -18,13 +19,24 @@
 
 # 💻 Tech Stack:
 ### **Lenguajes**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)  
 
 ### **Frameworks**  
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
 
 ### **Herramientas**  
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Jupyter](https://img.shields.io/badge/JupyterLab-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)  ![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)  
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/JupyterLab-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)  
+![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ---
 
@@ -37,4 +49,5 @@
   <br>
   <h3 style="color: #ff00ff; font-family: 'Comic Sans MS';">¡Codificando como un gato con café! ☕🐾</h3>
 </div>
+
 🔹 **¿Interesado en colaborar?** ¡No dudes en contactarme!
