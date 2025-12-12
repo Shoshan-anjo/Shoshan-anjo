@@ -19,6 +19,8 @@
 ```
 ---
 
+---
+
 # 💻 Tech Stack:
 
 ### **Lenguajes**  
@@ -33,8 +35,8 @@
 ---
 
 ### 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoshan-anjo&layout=compact&theme=tokyonight)](https://github.com/Shoshan-anjo)  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shoshan-anjo&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Shoshan-anjo)
+[![Top Langs](https://github-readme-stats-570ixhta8-shoshan-anjos-projects.vercel.app/api/top-langs/?username=Shoshan-anjo&layout=compact&theme=tokyonight)](https://github.com/Shoshan-anjo)  
+[![GitHub Stats](https://github-readme-stats-570ixhta8-shoshan-anjos-projects.vercel.app/api?username=Shoshan-anjo&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Shoshan-anjo)
 
 ---
 
@@ -43,4 +45,5 @@
   <br>
   <h3 style="color: #ff00ff; font-family: 'Comic Sans MS';">¡Codificando como un gato con café! ☕🐾</h3>
 </div>
+
 
