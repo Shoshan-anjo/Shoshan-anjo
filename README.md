@@ -32,12 +32,15 @@
 
 ---
 
-### 📊 Estadísticas de GitHub:  
+### 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoshan-anjo&layout=compact&theme=tokyonight)](https://github.com/Shoshan-anjo)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shoshan-anjo&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Shoshan-anjo)
 
 ---
+
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5xY3V5ZzF6d2V6dWJtY2R4Z2J6ZHV4b2VtY3BmeGJ5eGZ5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="300" style="border-radius: 50%; box-shadow: 0 0 20px #ff00ff;">
   <br>
   <h3 style="color: #ff00ff; font-family: 'Comic Sans MS';">¡Codificando como un gato con café! ☕🐾</h3>
 </div>
+
