@@ -31,11 +31,11 @@ I'm a passionate and detail-oriented developer with a strong foundation in web t
 
 ---
 
-### 📊 GitHub Stats (Incluyendo Actividad Privada)
+### 📊 GitHub Activity Resumen
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shoshan-anjo&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shoshan-anjo&theme=tokyonight&count_private=true" alt="Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shoshan-anjo&theme=tokyonight" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shoshan-anjo&theme=tokyonight" />
 </p>
 
 ---
