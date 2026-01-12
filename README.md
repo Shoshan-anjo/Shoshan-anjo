@@ -31,16 +31,16 @@ I'm a passionate and detail-oriented developer with a strong foundation in web t
 
 ---
 
-### 📊 Mis Logros y Actividad
+### 📊 GitHub Stats (Incluyendo Actividad Privada)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shoshan-anjo&theme=tokyonight&column=4&margin-w=15" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shoshan-anjo&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shoshan-anjo&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shoshan-anjo&theme=tokyonight&count_private=true" alt="Streak Stats" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" style="border-radius: 50%;">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250">
   <h3 style="color: #ff00ff;">¡Codificando como un gato con café! ☕🐾</h3>
 </div>
