@@ -33,13 +33,13 @@ I'm a passionate and detail-oriented developer with a strong foundation in web t
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoshan-anjo&layout=compact&theme=tokyonight" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Shoshan-anjo&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoshan-anjo&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shoshan-anjo&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5xY3V5ZzF6d2V6dWJtY2R4Z2J6ZHV4b2VtY3BmeGJ5eGZ5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250">
   <h3 style="color: #ff00ff;">¡Codificando como un gato con café! ☕🐾</h3>
 </div>
