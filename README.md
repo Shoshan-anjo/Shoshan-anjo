@@ -34,14 +34,6 @@ I'm a passionate and detail-oriented developer with a strong foundation in web t
 
 ---
 
-### 📊 Resumen de Actividad
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shoshan-anjo&theme=tokyonight" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shoshan-anjo&theme=tokyonight" width="400" />
-</p>
-
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200">
   <h3 style="color: #ff00ff;">¡Codificando como un gato con café! ☕🐾</h3>
